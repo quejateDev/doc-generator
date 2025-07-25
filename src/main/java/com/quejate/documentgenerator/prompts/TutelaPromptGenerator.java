@@ -1,6 +1,6 @@
-package com.quejate.docuaigenerator.prompts;
+package com.quejate.documentgenerator.prompts;
 
-import com.quejate.docuaigenerator.dtos.TutelaRequestDTO;
+import com.quejate.documentgenerator.dtos.TutelaRequestDTO;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;

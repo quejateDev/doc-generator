@@ -1,4 +1,4 @@
-package com.quejate.docuaigenerator.dtos;
+package com.quejate.documentgenerator.dtos;
 
 import lombok.Data;
 
